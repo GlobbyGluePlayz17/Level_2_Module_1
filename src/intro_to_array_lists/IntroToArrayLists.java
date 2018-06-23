@@ -13,7 +13,7 @@ public class IntroToArrayLists {
 		fruit.add("stirng");
 		fruit.add("histringin");
 		fruit.add("blank");
-		fruit.add("ihadtomakethiscuzof#7needsane");
+		fruit.add("ihadtomakethiscuzof#7itneedsane");
 		// 3. Print all the Strings using a standard for-loop
 		for (int i = 0; i < fruit.size(); i++) {
 			System.out.println(fruit.get(i));
